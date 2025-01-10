@@ -6,8 +6,10 @@ Welcome to my repository! This space contains all the programs and projects I ha
 CS50's Introduction to Programming with Python is an entry-level course designed to teach fundamental programming concepts and problem-solving techniques using Python language. Topics covered include:
 
 - Basic syntax and semantics of Python
+- Functions, Variables
 - Control structures (loops, conditionals)
-- Functions
+- Exceptions
+- Unit Tests
 - File I/O
 - Data structures
 - Regular expressions
@@ -18,19 +20,17 @@ CS50's Introduction to Programming with Python is an entry-level course designed
 The repository is organized as follows:
 
 ```
-📂 root-directory
+📂 CS50Python
+├── 📁 Week0
+│   ├── 📁 Problem Sets
 ├── 📁 Week1
-│   ├── hello.py
-│   ├── calculator.py
-│   └── ...
-├── 📁 Week2
-│   ├── mario.py
-│   ├── cash.py
-│   └── ...
+│   ├── 📁 Problem Sets
 ...
+├── 📁 Final Project
+│   ├── 📁 Password Manager
 ```
 
-Each folder corresponds to a week/module of the course, and the files inside represent individual practice programs, assignments, exercises, or projects.
+Each folder corresponds to a week/module of the course, and the files inside represent individual assignment problems, exercises, or projects.
 
 ## Usage
 Feel free to explore the code in this repository. To run any Python file:
@@ -60,7 +60,7 @@ Some of the key projects and assignments include:
 I am continually learning and improving. If you have suggestions or find ways to optimize my code, feel free to open an issue or submit a pull request. Collaboration is always welcome!
 
 ## Acknowledgments
-Special thanks to the CS50 staff and community for providing such a fantastic learning experience. For more details about the course, visit the [official website](https://cs50.harvard.edu/python/).
+Special thanks to the edX, CS50 staff and community for providing such a fantastic learning experience. For more details about the course, visit the [official website](https://cs50.harvard.edu/python/).
 
 ---
 
