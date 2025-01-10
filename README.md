@@ -1,4 +1,4 @@
-## CS50's Introduction to Programming with Python
+## CS50P: CS50's Introduction to Programming with Python
 
 Welcome to my repository! This space contains all the programs and projects I have completed as part of Harvard's **CS50's Introduction to Programming with Python** course. Each folder and file here represents my progress, learning, and understanding of the course material.
 
