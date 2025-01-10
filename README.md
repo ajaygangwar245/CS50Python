@@ -60,7 +60,7 @@ Some of the key projects and assignments include:
 I am continually learning and improving. If you have suggestions or find ways to optimize my code, feel free to open an issue or submit a pull request. Collaboration is always welcome!
 
 ## Acknowledgments
-Special thanks to the edX, CS50 staff and community for providing such a fantastic learning experience. For more details about the course, visit the <a href="https://cs50.harvard.edu/python/" target="_blank">official website</a>.
+Special thanks to the edX, CS50 staff and community for providing such a fantastic learning experience. For more details about the course, visit the [official website](https://cs50.harvard.edu/python/).
 
 ---
 
